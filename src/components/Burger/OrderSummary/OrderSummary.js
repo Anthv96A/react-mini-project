@@ -3,7 +3,7 @@ import Auxiliary from '../../../hoc/Auxiliary'
 
 const orderSummary = props => {
 
-    const style ={
+    const style = {
         textTransform: 'capitalize'
     }
 
