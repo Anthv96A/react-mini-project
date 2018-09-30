@@ -28,7 +28,7 @@
         margin: 0;
         height: 100%;
         width: auto;
-        display: flex;
+        display: inline-block;
         align-items: center;
     }
     
